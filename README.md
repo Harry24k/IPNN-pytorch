@@ -14,6 +14,6 @@
 * numpy==1.14.2   
 * pytorch==1.0.0   
 
-## Limitations of this code
+## A limitation of this code
 In the paper, they use L-BFGS to solve equation with constraints.
 However, in this code, backpropagation method is used instead of L-BFGS.
