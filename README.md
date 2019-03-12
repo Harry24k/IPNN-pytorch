@@ -15,6 +15,6 @@
 * pytorch==1.0.0   
 
 ## A limitation of this code
-In the paper, L-BFGS is used to solve equation with constraints.
+In the paper, L-BFGS is used to solve equation with constraints.   
 However, in this code, backpropagation method is used instead of L-BFGS.   
 Hence, it doesn't cover "4.2 Exprimental results" 
