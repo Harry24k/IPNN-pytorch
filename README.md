@@ -18,3 +18,7 @@
 In the paper, L-BFGS is used to solve equation with constraints.   
 However, in this code, backpropagation method is used instead of L-BFGS.   
 Hence, it doesn't cover "4.2 Exprimental results" 
+
+## Notice
+- This Repository won't be updated.
+- Please check [the package of adversarial attacks in pytorch](https://github.com/Harry24k/adversairal-attacks-pytorch)
